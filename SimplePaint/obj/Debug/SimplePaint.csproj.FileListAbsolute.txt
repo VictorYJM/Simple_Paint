@@ -8,3 +8,13 @@ C:\Users\vymim\OneDrive\Área de Trabalho\SimplePaint\obj\Debug\SimplePaint.cspr
 C:\Users\vymim\OneDrive\Área de Trabalho\SimplePaint\obj\Debug\SimplePaint.exe
 C:\Users\vymim\OneDrive\Área de Trabalho\SimplePaint\obj\Debug\SimplePaint.pdb
 C:\Users\vymim\OneDrive\Área de Trabalho\SimplePaint\obj\Debug\SimplePaint.frmGraphic.resources
+C:\Users\vymim\OneDrive\Área de Trabalho\Simple_Paint\SimplePaint\bin\Debug\SimplePaint.exe.config
+C:\Users\vymim\OneDrive\Área de Trabalho\Simple_Paint\SimplePaint\bin\Debug\SimplePaint.exe
+C:\Users\vymim\OneDrive\Área de Trabalho\Simple_Paint\SimplePaint\bin\Debug\SimplePaint.pdb
+C:\Users\vymim\OneDrive\Área de Trabalho\Simple_Paint\SimplePaint\obj\Debug\SimplePaint.csproj.AssemblyReference.cache
+C:\Users\vymim\OneDrive\Área de Trabalho\Simple_Paint\SimplePaint\obj\Debug\SimplePaint.frmGraphic.resources
+C:\Users\vymim\OneDrive\Área de Trabalho\Simple_Paint\SimplePaint\obj\Debug\SimplePaint.Properties.Resources.resources
+C:\Users\vymim\OneDrive\Área de Trabalho\Simple_Paint\SimplePaint\obj\Debug\SimplePaint.csproj.GenerateResource.cache
+C:\Users\vymim\OneDrive\Área de Trabalho\Simple_Paint\SimplePaint\obj\Debug\SimplePaint.csproj.CoreCompileInputs.cache
+C:\Users\vymim\OneDrive\Área de Trabalho\Simple_Paint\SimplePaint\obj\Debug\SimplePaint.exe
+C:\Users\vymim\OneDrive\Área de Trabalho\Simple_Paint\SimplePaint\obj\Debug\SimplePaint.pdb

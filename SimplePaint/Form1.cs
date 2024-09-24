@@ -357,7 +357,7 @@ namespace SimplePaint
         {
             shapes = new LinkedList<Point>();
             selectedShapes = new List<Point>();
-            p = null;
+            p = new Point(0, 0, Color.Black);
             polyline = null;
             pbDrawArea.Invalidate();
         }
